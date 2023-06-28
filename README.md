@@ -1,7 +1,5 @@
 # flowscape
 
-## simulate fluid movement with perlin noise
-
 the concept and applications of 'perlin noise' are fascinating. i was first introduced to perlin noise when i tried to wrap my head around terrain generation in minecraft. i understand perlin noise to be the bridge between something random and natural -- pseudo-random signals crafted to mimic the irregularities of textures, gradients, or motion. (click the vector field to change flow direction!)
 
 perlin noise was invented by ken perlin in 1983 as a way of creating more natural looking cgi for the movie 'tron'. using a smooth and continuous function, perlin noise is capable of creating pseudo-random values at different points in space and meshing them together using gradient vectors to make a smooth noise function.
